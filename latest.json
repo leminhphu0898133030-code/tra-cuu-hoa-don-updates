@@ -1,0 +1,10 @@
+{
+  "app": "TraCuuHoaDon",
+  "version": "1.0.0",
+  "notes": "bản mới",
+  "exe_sha256": "c7f9d64b160fe341f364054a173bb5f5bffb69ac5b52f891b31f10c10f5f3d5f",
+  "package_sha256": "9eae576347a247ea7c23a6e1f305f620d0f1b3d8a63b42fe16fafd0fcd799f0c",
+  "package_size": 79535750,
+  "package_url": "https://github.com/leminhphu0898133030-code/tra-cuu-hoa-don-updates/releases/download/v1.0.0/TraCuuHoaDon_UPDATE_V1_0_0.zip",
+  "signature": "VrwJz66QhpB/DIfzqgYJTex7hTZaNk4gcmAKQG++Ud7aoC6PTGTrrgwzRpUYSojqiKWdjZlLzLBeH+QIBcYWBw=="
+}
